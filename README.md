@@ -17,4 +17,13 @@
 ## CREATE  PROJECT
 
 <img width="1091" height="506" alt="image" src="https://github.com/user-attachments/assets/7f2767c7-8ea1-4488-9802-e8d1a8b741df" />
-##
+
+
+##  OUTPUT
+
+<img width="591" height="241" alt="image" src="https://github.com/user-attachments/assets/727c44e9-f2fa-4dbf-b543-fb734a5d4d58" />
+
+
+## CLose the server 
+use command CTrl+C
+
